@@ -2,5 +2,5 @@
 
 ![](./images/readme-banner.png)
 
-### Посмотреть можно [*тут!*](https://artem-kukin.github.io/)
+### Посмотреть можно [*тут!*](https://artem-kukin.github.io/Dropdown-menu/)
 
